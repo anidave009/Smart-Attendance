@@ -3,7 +3,7 @@ Steps To Run Project->
 cd <project-folder>
 pip install -r requirements.txt
 
-2.Create a TrainingImage folder inside the project directory.
+2.Create a TrainingImage folder inside the project directory.(remove the original one and create new empty folder in which images will be stored automatically once you train the images ).
 
 3.Update file paths in attendance.py and automaticAttendance.py to match your system.
 
